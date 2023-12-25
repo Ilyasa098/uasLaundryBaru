@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136169340798",
+    "project_id": "laundry-war",
+    "storage_bucket": "laundry-war.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136169340798:android:e0b716e287110d941e3d2f",
+        "android_client_info": {
+          "package_name": "com.example.aplikasilaundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGfS50vEmPGJz4H27YPKzTxheJOGvdkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136169340798:android:05e7cc9823f760c61e3d2f",
+        "android_client_info": {
+          "package_name": "com.example.uaslaundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGfS50vEmPGJz4H27YPKzTxheJOGvdkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
