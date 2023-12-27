@@ -63,6 +63,8 @@
         app:layout_constraintTop_toBottomOf="@id/loginButton"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
 
     <!--    <FrameLayout-->
     <!--        android:id="@+id/frame_layout"-->
@@ -74,6 +76,3 @@
     <!--        app:layout_constraintTop_toTopOf="parent">-->
 
     <!--    </FrameLayout>-->
-
-
-</androidx.constraintlayout.widget.ConstraintLayout>

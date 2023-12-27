@@ -19,8 +19,6 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-
-
     <EditText
         android:id="@+id/emailEditText"
         android:layout_width="0dp"

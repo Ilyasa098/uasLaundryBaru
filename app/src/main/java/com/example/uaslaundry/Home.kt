@@ -32,6 +32,11 @@ class Home : AppCompatActivity() {
             val intent = Intent(this@Home, DetailsLaundry::class.java)
             startActivity(intent)
         }
+
+        profileNavButton.setOnClickListener {
+            val toProfile = Intent(this,ProfileActivity::class.java)
+            startActivity(toProfile)
+        }
     }
 }
 

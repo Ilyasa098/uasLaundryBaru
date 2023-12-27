@@ -13,6 +13,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:text="Selamat Datang di Punya Oe, chaonimaooo!"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
 
 <!--    <Button-->
 <!--        android:id="@+id/btn_login"-->
@@ -88,4 +89,3 @@
 <!--        app:layout_constraintStart_toStartOf="parent" />-->
 
 
-</androidx.constraintlayout.widget.ConstraintLayout>
